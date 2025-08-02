@@ -6,14 +6,9 @@ This repository contains selected works including:
 - Self-directed valuation models using DCF, FCFF/FCFE, and scenario testing
 -  Comparative notes on Equity Risk Premium methodologies (Goldman Sachs vs Damodaran)
 -  Draft paper exploring reflexivity in fintech systems
-- NISM equity research certification learnings and CS50 resources 
+- NISM equity research certification learnings and CS50 resources
+- financial analyses, sector,thematic 
 
-## 📁 Repository Structure
-
-- `/equity-research-mahindra` → Research report + DCF model
-- `/valuation-models` → Excel templates + Damodaran-based valuation work
-- `/research-papers` → Ongoing research paper + ERP framework notes
-- `/certifications-and-extras` → NISM + CS50 certificates
 
 All files are original work unless otherwise noted.
 
